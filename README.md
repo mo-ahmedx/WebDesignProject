@@ -2,6 +2,9 @@
 
 This is a responsive and stylish landing page for a fictional **Creative Design Agency**, built using **HTML** and **CSS**. It's a simple, modern layout featuring two main service sections: **Beauty** and **Construction**.
 
+## 🌐 Preview
+
+![Agency Screenshot](./assets/images/beautiful.jpg)
 
 ## 🛠️ Tech Stack
 
