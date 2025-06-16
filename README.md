@@ -4,7 +4,7 @@ This is a responsive and stylish landing page for a fictional **Creative Design 
 
 ## 🌐 Preview
 
-![Agency Screenshot](./assets/images/beautiful.jpg)
+![Agency Screenshot](./assets/images/web-design-agency-prev.png)
 
 ## 🛠️ Tech Stack
 
